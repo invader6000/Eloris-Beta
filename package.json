@@ -1,0 +1,22 @@
+{
+  "name": "eloris-beta",
+  "version": "1.0.0",
+  "description": "An exploration game discord bot. Explore hundreds of places, complete fun quests and build your own character.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invader6000/Eloris-Beta.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Invader6000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invader6000/Eloris-Beta/issues"
+  },
+  "homepage": "https://github.com/invader6000/Eloris-Beta#readme"
+}
